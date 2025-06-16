@@ -92,4 +92,4 @@ Contributions are what make the open-source community such an amazing place to l
 
 vivek kumar - [GitHub](https://github.com/vivek-kumar04/)
 
-Project Link: [follow this link.](https://github.com/exclusiveabhi/job-scout)
+Project Link: [follow this link.](https://github.com/exclusiveabhi/job-scout/)
